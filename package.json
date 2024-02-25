@@ -1,0 +1,16 @@
+{
+  "name": "welcome-to-button-canvafy-selection-role",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvafy": "^7.0.4",
+    "discord.js": "^14.14.1"
+  }
+}
